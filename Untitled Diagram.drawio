@@ -1,1 +1,201 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T15:45:10.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ggOaj2KGiZr75VaJqcnR" version="13.10.0" type="github"><diagram id="29YZ0Py1t4EAO77H3x10" name="Page-1">ddHBDoMgDADQr+GOMhPvzm2XnTzsTKQTErQGWWT7+mmAOeJ2Al5bSgphVe/Oho/yigI0yalwhB1JnmeUlcuyytNLcQjQGSVC0gaNekGsDPpQAqYk0SJqq8YUWxwGaG1i3Bic07Q76rTryDvYQdNyvdebElZ6LQu6+QVUJ2PnjIZIz2NygElygfMXsZqwyiBav+tdBXodXpyLrzv9iX4eZmCwPwqWzXb3ckh+iNVv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-21T17:21:18.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="p5uZx37pus8Lsj5vbw3X" version="13.10.0" type="github">
+  <diagram id="29YZ0Py1t4EAO77H3x10" name="Page-1">
+    <mxGraphModel dx="2595" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-1" target="Dh1NTllMK92IxTkZGG6l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-1" target="Dh1NTllMK92IxTkZGG6l-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-1" value="Configure Cloudera Manager Repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-2" target="Dh1NTllMK92IxTkZGG6l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-2" target="Dh1NTllMK92IxTkZGG6l-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-2" value="&lt;div&gt;Install Cloudera Manager Agents&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-4" target="Dh1NTllMK92IxTkZGG6l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-4" target="Dh1NTllMK92IxTkZGG6l-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-4" value="Install external DB for Cloudera Manager Server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-6" target="Dh1NTllMK92IxTkZGG6l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-6" target="Dh1NTllMK92IxTkZGG6l-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-6" value="Configure Kerberos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-8" target="Dh1NTllMK92IxTkZGG6l-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-8" value="Install Cloudera Manager Server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-10" target="Dh1NTllMK92IxTkZGG6l-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-10" value="Install CDH" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-12" value="Restart Services" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-14" value="Add amdocs external yum repository" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-16" target="Dh1NTllMK92IxTkZGG6l-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-16" value="Install Cloudera Manager Agents" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-18" target="Dh1NTllMK92IxTkZGG6l-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-18" value="create zookeeper,&amp;nbsp;cloudera-scm and kafka user &amp;amp; group" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-20" value="Configure Cloudera Manager Agent - update server, log, lib dir in config.ini" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-30" value="Restart Cloudera Manager Agents" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-31" target="Dh1NTllMK92IxTkZGG6l-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-31" value="Get installed packages" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-33" target="Dh1NTllMK92IxTkZGG6l-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-33" value="&lt;div&gt;initialize postgres_rpm_installed to be no&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-35" target="Dh1NTllMK92IxTkZGG6l-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-35" value="update postgres_rpm_installed if we found package" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-37" target="Dh1NTllMK92IxTkZGG6l-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-37" value="&lt;div&gt;Create PostgreSQL data dir&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-39" target="Dh1NTllMK92IxTkZGG6l-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-39" value="Create PostgreSQL unix socket dirs" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-41" target="Dh1NTllMK92IxTkZGG6l-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-41" value="&lt;div&gt;Create PostgreSQL service ovverride dir&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-43" target="Dh1NTllMK92IxTkZGG6l-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-43" value="Set PostgreSQL service environment variables" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-45" target="Dh1NTllMK92IxTkZGG6l-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-45" value="Check if PostgreSQL database is initialized." style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-47" target="Dh1NTllMK92IxTkZGG6l-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-47" value="Initialize PostgreSQL database.." style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-49" target="Dh1NTllMK92IxTkZGG6l-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-49" value="start postgresql" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-51" target="Dh1NTllMK92IxTkZGG6l-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-51" value="Configure global settings." style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-53" value="&lt;div&gt;Configure host based authentication (if entries are configured).&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="255" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-55" target="Dh1NTllMK92IxTkZGG6l-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-55" value="&lt;div&gt;&lt;span&gt;Install KRB5 workstation&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-57" target="Dh1NTllMK92IxTkZGG6l-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-57" value="Set krb5.conf" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-59" target="Dh1NTllMK92IxTkZGG6l-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-59" value="Install KRB5 server" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-61" target="Dh1NTllMK92IxTkZGG6l-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-61" value="Set kdc.conf" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-63" target="Dh1NTllMK92IxTkZGG6l-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-63" value="Create KDC database" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-65" target="Dh1NTllMK92IxTkZGG6l-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-65" value="Set kadm5.acl" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dh1NTllMK92IxTkZGG6l-67" target="Dh1NTllMK92IxTkZGG6l-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-67" value="Create Cloudera Manager admin princ" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dh1NTllMK92IxTkZGG6l-69" value="Start Kerberos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
